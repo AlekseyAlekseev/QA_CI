@@ -1,1 +1,1 @@
-# Задача №1 - Настройка CI
+# Задача №1 - Настройка CI [![Build status](https://ci.appveyor.com/api/projects/status/3q24u6uh7eq4rci1/branch/master?svg=true)](https://ci.appveyor.com/project/AlekseyAlekseev/qa-ci/branch/master)
